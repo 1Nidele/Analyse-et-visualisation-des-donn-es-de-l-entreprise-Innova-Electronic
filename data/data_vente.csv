@@ -1,0 +1,589 @@
+Month,Product,Units Sold,Revenue
+January,Smartphone,1000,50000
+January,Laptop,500,100000
+January,Tablet,300,45000
+January,Smart TV,200,25000
+January,Headphones,800,32000
+January,Wireless Speaker,600,36000
+January,Smartwatch,400,24000
+January,Monitor,700,42000
+January,Printer,250,20000
+January,Router,350,21000
+January,External Hard Drive,150,12000
+January,Mouse,450,9000
+January,Keyboard,550,11000
+January,Graphics Card,180,27000
+January,Processor,400,40000
+January,RAM,300,24000
+January,SSD,200,20000
+January,VR Headset,100,25000
+January,Action Camera,300,15000
+January,Drone,150,30000
+January,Game Console,250,37500
+January,Smart Home Hub,200,40000
+January,Wireless Earbuds,400,20000
+January,Projector,100,10000
+January,Power Bank,800,24000
+January,Car Charger,500,15000
+January,USB Cable,700,7000
+January,HDMI Cable,300,4500
+January,Bluetooth Adapter,200,6000
+January,Laser Printer,150,22500
+January,Gaming Mouse,400,20000
+January,Mechanical Keyboard,250,17500
+January,Webcam,300,13500
+January,Microphone,200,10000
+January,Network Switch,150,15000
+January,Wi-Fi Extender,100,5000
+January,Smart Thermostat,300,22500
+January,Surge Protector,250,15000
+January,Battery Charger,200,10000
+January,SD Card,150,3000
+January,USB Flash Drive,250,5000
+January,Compact Camera,200,10000
+January,Wireless Mouse,100,6000
+January,Power Strip,300,4500
+January,Graphics Tablet,150,7500
+January,Ink Cartridges,250,12500
+January,Laptop Stand,100,5000
+January,Portable Scanner,150,7500
+January,Screen Cleaner,200,3000
+February,Smartphone,1100,55000
+February,Laptop,550,110000
+February,Tablet,330,49500
+February,Smart TV,220,27500
+February,Headphones,880,35200
+February,Wireless Speaker,660,39600
+February,Smartwatch,440,26400
+February,Monitor,770,46200
+February,Printer,275,22000
+February,Router,385,23100
+February,External Hard Drive,165,13200
+February,Mouse,495,9900
+February,Keyboard,605,12100
+February,Graphics Card,198,29700
+February,Processor,440,44000
+February,RAM,330,26400
+February,SSD,220,22000
+February,VR Headset,110,27500
+February,Action Camera,330,16500
+February,Drone,165,33000
+February,Game Console,275,41250
+February,Smart Home Hub,220,44000
+February,Wireless Earbuds,440,22000
+February,Projector,110,11000
+February,Power Bank,880,26400
+February,Car Charger,550,16500
+February,USB Cable,770,7700
+February,HDMI Cable,330,4950
+February,Bluetooth Adapter,220,6600
+February,Laser Printer,165,24750
+February,Gaming Mouse,440,22000
+February,Mechanical Keyboard,275,19250
+February,Webcam,330,14850
+February,Microphone,220,11000
+February,Network Switch,165,16500
+February,Wi-Fi Extender,110,5500
+February,Smart Thermostat,330,24750
+February,Surge Protector,275,16500
+February,Battery Charger,220,11000
+February,SD Card,165,3300
+February,USB Flash Drive,275,5500
+February,Compact Camera,220,11000
+February,Wireless Mouse,110,6600
+February,Power Strip,330,4950
+February,Graphics Tablet,165,8250
+February,Ink Cartridges,275,13750
+February,Laptop Stand,110,5500
+February,Portable Scanner,165,8250
+February,Screen Cleaner,220,3300
+March,Smartphone,1200,60000
+March,Laptop,600,120000
+March,Tablet,360,54000
+March,Smart TV,240,30000
+March,Headphones,960,38400
+March,Wireless Speaker,720,43200
+March,Smartwatch,480,28800
+March,Monitor,840,50400
+March,Printer,300,24000
+March,Router,420,25200
+March,External Hard Drive,180,14400
+March,Mouse,540,10800
+March,Keyboard,660,13200
+March,Graphics Card,216,32400
+March,Processor,480,48000
+March,RAM,360,28800
+March,SSD,240,24000
+March,VR Headset,120,30000
+March,Action Camera,360,18000
+March,Drone,180,36000
+March,Game Console,300,45000
+March,Smart Home Hub,240,48000
+March,Wireless Earbuds,480,24000
+March,Projector,120,12000
+March,Power Bank,960,28800
+March,Car Charger,600,18000
+March,USB Cable,840,8400
+March,HDMI Cable,360,5400
+March,Bluetooth Adapter,240,7200
+March,Laser Printer,180,27000
+March,Gaming Mouse,480,24000
+March,Mechanical Keyboard,300,21000
+March,Webcam,360,16200
+March,Microphone,240,12000
+March,Network Switch,180,18000
+March,Wi-Fi Extender,120,6000
+March,Smart Thermostat,360,27000
+March,Surge Protector,300,18000
+March,Battery Charger,240,12000
+March,SD Card,180,3600
+March,USB Flash Drive,300,6000
+March,Compact Camera,240,12000
+March,Wireless Mouse,120,7200
+March,Power Strip,360,5400
+March,Graphics Tablet,180,9000
+March,Ink Cartridges,300,15000
+March,Laptop Stand,120,6000
+March,Portable Scanner,180,9000
+March,Screen Cleaner,240,3600
+April,Smartphone,1300,65000
+April,Laptop,650,130000
+April,Tablet,390,58500
+April,Smart TV,260,32500
+April,Headphones,1040,41600
+April,Wireless Speaker,780,46800
+April,Smartwatch,520,31200
+April,Monitor,910,54600
+April,Printer,325,26000
+April,Router,455,27300
+April,External Hard Drive,195,15600
+April,Mouse,585,11700
+April,Keyboard,715,14300
+April,Graphics Card,234,35100
+April,Processor,520,52000
+April,RAM,390,31200
+April,SSD,260,26000
+April,VR Headset,130,32500
+April,Action Camera,390,19500
+April,Drone,195,39000
+April,Game Console,325,48750
+April,Smart Home Hub,260,52000
+April,Wireless Earbuds,520,26000
+April,Projector,130,13000
+April,Power Bank,1040,31200
+April,Car Charger,650,19500
+April,USB Cable,910,9100
+April,HDMI Cable,390,5850
+April,Bluetooth Adapter,260,7800
+April,Laser Printer,195,29250
+April,Gaming Mouse,520,26000
+April,Mechanical Keyboard,325,22750
+April,Webcam,390,17550
+April,Microphone,260,13000
+April,Network Switch,195,19500
+April,Wi-Fi Extender,130,6500
+April,Smart Thermostat,390,29250
+April,Surge Protector,325,19500
+April,Battery Charger,260,13000
+April,SD Card,195,3900
+April,USB Flash Drive,325,6500
+April,Compact Camera,260,13000
+April,Wireless Mouse,130,7800
+April,Power Strip,390,5850
+April,Graphics Tablet,195,9750
+April,Ink Cartridges,325,16250
+April,Laptop Stand,130,6500
+April,Portable Scanner,195,9750
+April,Screen Cleaner,260,3900
+May,Smartphone,1400,70000
+May,Laptop,700,140000
+May,Tablet,420,63000
+May,Smart TV,280,35000
+May,Headphones,1120,44800
+May,Wireless Speaker,840,50400
+May,Smartwatch,560,33600
+May,Monitor,980,58800
+May,Printer,350,28000
+May,Router,490,29400
+May,External Hard Drive,210,16800
+May,Mouse,630,12600
+May,Keyboard,770,15400
+May,Graphics Card,252,37800
+May,Processor,560,56000
+May,RAM,420,33600
+May,SSD,280,28000
+May,VR Headset,140,35000
+May,Action Camera,420,21000
+May,Drone,210,42000
+May,Game Console,350,52500
+May,Smart Home Hub,280,56000
+May,Wireless Earbuds,560,28000
+May,Projector,140,14000
+May,Power Bank,1120,33600
+May,Car Charger,700,21000
+May,USB Cable,980,9800
+May,HDMI Cable,420,6300
+May,Bluetooth Adapter,280,8400
+May,Laser Printer,210,31500
+May,Gaming Mouse,560,28000
+May,Mechanical Keyboard,350,24500
+May,Webcam,420,18900
+May,Microphone,280,14000
+May,Network Switch,210,21000
+May,Wi-Fi Extender,140,7000
+May,Smart Thermostat,420,31500
+May,Surge Protector,350,21000
+May,Battery Charger,280,14000
+May,SD Card,210,4200
+May,USB Flash Drive,350,7000
+May,Compact Camera,280,14000
+May,Wireless Mouse,140,8400
+May,Power Strip,420,6300
+May,Graphics Tablet,210,10500
+May,Ink Cartridges,350,17500
+May,Laptop Stand,140,7000
+May,Portable Scanner,210,10500
+May,Screen Cleaner,280,4200
+June,Smartphone,1500,75000
+June,Laptop,750,150000
+June,Tablet,450,67500
+June,Smart TV,300,37500
+June,Headphones,1200,48000
+June,Wireless Speaker,900,54000
+June,Smartwatch,600,36000
+June,Monitor,1050,63000
+June,Printer,375,30000
+June,Router,525,31500
+June,External Hard Drive,225,18000
+June,Mouse,675,13500
+June,Keyboard,825,16500
+June,Graphics Card,270,40500
+June,Processor,600,60000
+June,RAM,450,36000
+June,SSD,300,30000
+June,VR Headset,150,37500
+June,Action Camera,450,22500
+June,Drone,225,45000
+June,Game Console,375,56250
+June,Smart Home Hub,300,60000
+June,Wireless Earbuds,600,30000
+June,Projector,150,15000
+June,Power Bank,1200,36000
+June,Car Charger,750,22500
+June,USB Cable,1050,10500
+June,HDMI Cable,450,6750
+June,Bluetooth Adapter,300,9000
+June,Laser Printer,225,33750
+June,Gaming Mouse,600,30000
+June,Mechanical Keyboard,375,26250
+June,Webcam,450,20250
+June,Microphone,300,15000
+June,Network Switch,225,22500
+June,Wi-Fi Extender,150,7500
+June,Smart Thermostat,450,33750
+June,Surge Protector,375,22500
+June,Battery Charger,300,15000
+June,SD Card,225,4500
+June,USB Flash Drive,375,7500
+June,Compact Camera,300,15000
+June,Wireless Mouse,150,9000
+June,Power Strip,450,6750
+June,Graphics Tablet,225,11250
+June,Ink Cartridges,375,18750
+June,Laptop Stand,150,7500
+June,Portable Scanner,225,11250
+June,Screen Cleaner,300,4500
+July,Smartphone,1600,80000
+July,Laptop,800,160000
+July,Tablet,480,72000
+July,Smart TV,320,40000
+July,Headphones,1280,51200
+July,Wireless Speaker,960,57600
+July,Smartwatch,640,38400
+July,Monitor,1120,67200
+July,Printer,400,32000
+July,Router,560,33600
+July,External Hard Drive,240,19200
+July,Mouse,720,14400
+July,Keyboard,880,17600
+July,Graphics Card,288,43200
+July,Processor,640,64000
+July,RAM,480,38400
+July,SSD,320,32000
+July,VR Headset,160,40000
+July,Action Camera,480,24000
+July,Drone,240,48000
+July,Game Console,400,60000
+July,Smart Home Hub,320,64000
+July,Wireless Earbuds,640,32000
+July,Projector,160,16000
+July,Power Bank,1280,38400
+July,Car Charger,800,24000
+July,USB Cable,1120,11200
+July,HDMI Cable,480,7200
+July,Bluetooth Adapter,320,9600
+July,Laser Printer,240,36000
+July,Gaming Mouse,640,32000
+July,Mechanical Keyboard,400,28000
+July,Webcam,480,21600
+July,Microphone,320,16000
+July,Network Switch,240,24000
+July,Wi-Fi Extender,160,8000
+July,Smart Thermostat,480,36000
+July,Surge Protector,400,24000
+July,Battery Charger,320,16000
+July,SD Card,240,4800
+July,USB Flash Drive,400,8000
+July,Compact Camera,320,16000
+July,Wireless Mouse,160,9600
+July,Power Strip,480,7200
+July,Graphics Tablet,240,12000
+July,Ink Cartridges,400,20000
+July,Laptop Stand,160,8000
+July,Portable Scanner,240,12000
+July,Screen Cleaner,320,4800
+August,Smartphone,1700,85000
+August,Laptop,850,170000
+August,Tablet,510,76500
+August,Smart TV,340,42500
+August,Headphones,1360,54400
+August,Wireless Speaker,1020,61200
+August,Smartwatch,680,40800
+August,Monitor,1190,71400
+August,Printer,425,34000
+August,Router,595,35700
+August,External Hard Drive,255,20400
+August,Mouse,765,15300
+August,Keyboard,935,18700
+August,Graphics Card,306,45900
+August,Processor,680,68000
+August,RAM,510,40800
+August,SSD,340,34000
+August,VR Headset,170,42500
+August,Action Camera,510,25500
+August,Drone,255,51000
+August,Game Console,425,63750
+August,Smart Home Hub,340,68000
+August,Wireless Earbuds,680,34000
+August,Projector,170,17000
+August,Power Bank,1360,40800
+August,Car Charger,850,25500
+August,USB Cable,1190,11900
+August,HDMI Cable,510,7650
+August,Bluetooth Adapter,340,10200
+August,Laser Printer,255,38250
+August,Gaming Mouse,680,34000
+August,Mechanical Keyboard,425,29750
+August,Webcam,510,22950
+August,Microphone,340,17000
+August,Network Switch,255,25500
+August,Wi-Fi Extender,170,8500
+August,Smart Thermostat,510,38250
+August,Surge Protector,425,25500
+August,Battery Charger,340,17000
+August,SD Card,255,5100
+August,USB Flash Drive,425,8500
+August,Compact Camera,340,17000
+August,Wireless Mouse,170,10200
+August,Power Strip,510,7650
+August,Graphics Tablet,255,12750
+August,Ink Cartridges,425,21250
+August,Laptop Stand,170,8500
+August,Portable Scanner,255,12750
+August,Screen Cleaner,340,5100
+September,Smartphone,1800,90000
+September,Laptop,900,180000
+September,Tablet,540,81000
+September,Smart TV,360,45000
+September,Headphones,1440,57600
+September,Wireless Speaker,1080,64800
+September,Smartwatch,720,43200
+September,Monitor,1260,75600
+September,Printer,450,36000
+September,Router,630,37800
+September,External Hard Drive,270,21600
+September,Mouse,810,16200
+September,Keyboard,990,19800
+September,Graphics Card,324,48600
+September,Processor,720,72000
+September,RAM,540,43200
+September,SSD,360,36000
+September,VR Headset,180,45000
+September,Action Camera,540,27000
+September,Drone,270,54000
+September,Game Console,450,67500
+September,Smart Home Hub,360,72000
+September,Wireless Earbuds,720,36000
+September,Projector,180,18000
+September,Power Bank,1440,43200
+September,Car Charger,900,27000
+September,USB Cable,1260,12600
+September,HDMI Cable,540,8100
+September,Bluetooth Adapter,360,10800
+September,Laser Printer,270,40500
+September,Gaming Mouse,720,36000
+September,Mechanical Keyboard,450,31500
+September,Webcam,540,24300
+September,Microphone,360,18000
+September,Network Switch,270,27000
+September,Wi-Fi Extender,180,9000
+September,Smart Thermostat,540,40500
+September,Surge Protector,450,27000
+September,Battery Charger,360,18000
+September,SD Card,270,5400
+September,USB Flash Drive,450,9000
+September,Compact Camera,360,18000
+September,Wireless Mouse,180,10800
+September,Power Strip,540,8100
+September,Graphics Tablet,270,13500
+September,Ink Cartridges,450,22500
+September,Laptop Stand,180,9000
+September,Portable Scanner,270,13500
+September,Screen Cleaner,360,5400
+October,Smartphone,1900,95000
+October,Laptop,950,190000
+October,Tablet,570,85500
+October,Smart TV,380,47500
+October,Headphones,1520,60800
+October,Wireless Speaker,1140,68400
+October,Smartwatch,760,45600
+October,Monitor,1330,79800
+October,Printer,475,38000
+October,Router,665,39900
+October,External Hard Drive,285,22800
+October,Mouse,855,17100
+October,Keyboard,1045,20900
+October,Graphics Card,342,51300
+October,Processor,760,76000
+October,RAM,570,45600
+October,SSD,380,38000
+October,VR Headset,190,47500
+October,Action Camera,570,28500
+October,Drone,285,57000
+October,Game Console,475,71250
+October,Smart Home Hub,380,76000
+October,Wireless Earbuds,760,38000
+October,Projector,190,19000
+October,Power Bank,1520,45600
+October,Car Charger,950,28500
+October,USB Cable,1330,13300
+October,HDMI Cable,570,8550
+October,Bluetooth Adapter,380,11400
+October,Laser Printer,285,42750
+October,Gaming Mouse,760,38000
+October,Mechanical Keyboard,475,33250
+October,Webcam,570,25650
+October,Microphone,380,19000
+October,Network Switch,285,28500
+October,Wi-Fi Extender,190,9500
+October,Smart Thermostat,570,42750
+October,Surge Protector,475,28500
+October,Battery Charger,380,19000
+October,SD Card,285,5700
+October,USB Flash Drive,475,9500
+October,Compact Camera,380,19000
+October,Wireless Mouse,190,11400
+October,Power Strip,570,8550
+October,Graphics Tablet,285,14250
+October,Ink Cartridges,475,23750
+October,Laptop Stand,190,9500
+October,Portable Scanner,285,14250
+October,Screen Cleaner,380,5700
+November,Smartphone,2000,100000
+November,Laptop,1000,200000
+November,Tablet,600,90000
+November,Smart TV,400,50000
+November,Headphones,1600,64000
+November,Wireless Speaker,1200,72000
+November,Smartwatch,800,48000
+November,Monitor,1400,84000
+November,Printer,500,40000
+November,Router,700,42000
+November,External Hard Drive,300,24000
+November,Mouse,900,18000
+November,Keyboard,1100,22000
+November,Graphics Card,360,54000
+November,Processor,800,80000
+November,RAM,600,48000
+November,SSD,400,40000
+November,VR Headset,200,50000
+November,Action Camera,600,30000
+November,Drone,300,60000
+November,Game Console,500,75000
+November,Smart Home Hub,400,80000
+November,Wireless Earbuds,800,40000
+November,Projector,200,20000
+November,Power Bank,1600,48000
+November,Car Charger,1000,30000
+November,USB Cable,1400,14000
+November,HDMI Cable,600,9000
+November,Bluetooth Adapter,400,12000
+November,Laser Printer,300,45000
+November,Gaming Mouse,800,40000
+November,Mechanical Keyboard,500,35000
+November,Webcam,600,27000
+November,Microphone,400,20000
+November,Network Switch,300,30000
+November,Wi-Fi Extender,200,10000
+November,Smart Thermostat,600,45000
+November,Surge Protector,500,30000
+November,Battery Charger,400,20000
+November,SD Card,300,6000
+November,USB Flash Drive,500,10000
+November,Compact Camera,400,20000
+November,Wireless Mouse,200,12000
+November,Power Strip,600,9000
+November,Graphics Tablet,300,15000
+November,Ink Cartridges,500,25000
+November,Laptop Stand,200,10000
+November,Portable Scanner,300,15000
+November,Screen Cleaner,400,6000
+December,Smartphone,2100,105000
+December,Laptop,1050,210000
+December,Tablet,630,94500
+December,Smart TV,420,52500
+December,Headphones,1680,67200
+December,Wireless Speaker,1260,75600
+December,Smartwatch,840,50400
+December,Monitor,1470,88200
+December,Printer,525,42000
+December,Router,735,44100
+December,External Hard Drive,315,25200
+December,Mouse,945,18900
+December,Keyboard,1155,23100
+December,Graphics Card,378,56700
+December,Processor,840,84000
+December,RAM,630,50400
+December,SSD,420,42000
+December,VR Headset,210,52500
+December,Action Camera,630,31500
+December,Drone,315,63000
+December,Game Console,525,78750
+December,Smart Home Hub,420,84000
+December,Wireless Earbuds,840,42000
+December,Projector,210,21000
+December,Power Bank,1680,50400
+December,Car Charger,1050,31500
+December,USB Cable,1470,14700
+December,HDMI Cable,630,9450
+December,Bluetooth Adapter,420,12600
+December,Laser Printer,315,47250
+December,Gaming Mouse,840,42000
+December,Mechanical Keyboard,525,36750
+December,Webcam,630,28350
+December,Microphone,420,21000
+December,Network Switch,315,31500
+December,Wi-Fi Extender,210,10500
+December,Smart Thermostat,630,47250
+December,Surge Protector,525,31500
+December,Battery Charger,420,21000
+December,SD Card,315,6300
+December,USB Flash Drive,525,10500
+December,Compact Camera,420,21000
+December,Wireless Mouse,210,12600
+December,Power Strip,630,9450
+December,Graphics Tablet,315,15750
+December,Ink Cartridges,525,26250
+December,Laptop Stand,210,10500
+December,Portable Scanner,315,15750
+December,Screen Cleaner,420,6300
