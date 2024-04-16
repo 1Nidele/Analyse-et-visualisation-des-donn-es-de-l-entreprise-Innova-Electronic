@@ -1,5 +1,6 @@
 # Analyse-et-visualisation-des-donn-es-de-l-entreprise-Innova-Electronic
 Ce dépôt Git contient le code source utilisé pour analyser les données de ventes mensuelles de l'entreprise Innova Electronic à l'aide de Python, notamment les bibliothèques NumPy, Pandas et Matplotlib. Voici les différentes étapes réalisées :
+
 Importation des bibliothèques :
 	Nous avons importé les bibliothèques nécessaires pour l'analyse des données : NumPy, Pandas et Matplotlib.
 
